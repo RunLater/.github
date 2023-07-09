@@ -1,1 +1,3 @@
-👋 Hello! We are a bunch of bored people.
+Bored? Get something to do here.
+
+https://bored-production.up.railway.app/
